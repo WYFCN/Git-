@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-320" />
     <option name="y" value="185" />
     <option name="width" value="1940" />
@@ -101,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test03">
+  <component name="RunManager" selected="Application.test02">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Shixi_Practice" />
@@ -153,10 +153,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test02" />
         <item itemvalue="Application.Test03" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.test02" />
         <item itemvalue="Application.T6" />
       </list>
     </recent_temporary>

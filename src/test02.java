@@ -4,7 +4,8 @@ import java.util.*;
 
 public class test02{
     public static void main(String[] args) {
-        System.out.println("git¡∑œ∞÷–");
+        long a=2,b=3;
+        System.out.println(quickmod(a,b,10000000));
     }
     public static long quickmod(long a,long b,long m)
     {
