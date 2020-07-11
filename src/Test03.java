@@ -1,6 +1,11 @@
 
 public class Test03 {
     public static void main(String[] args) {
-        System.out.println("什么都没有");
+        int ans=0;
+        for(int i=0;i<10;i++)
+        {
+            ans+=i;
+        }
+        System.out.println(ans);
     }
 }
