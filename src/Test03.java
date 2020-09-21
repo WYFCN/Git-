@@ -1,6 +1,6 @@
 
 public class Test03 {
     public static void main(String[] args) {
-       System.out.println("Day one");
+       System.out.println("Day 。。。。。。。。。。。。。。。。。。。。");
     }
 }
