@@ -4,6 +4,6 @@ import java.util.*;
 
 public class test02{
     public static void main(String[] args) {
-        System.out.println(quickmod("第二天");
+        System.out.println("第二天");
     }
 }
